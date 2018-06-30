@@ -1,1 +1,36 @@
-# Portfolio
+Airbnb data:
+
+This dataset contains  information about the following key attributes
+•	type of listing (apartment, single family home etc)
+•	geographical information
+•	host information
+•	listing review information
+•	listing price and other fees
+•	neighborhood information 
+
+Regression methods can be used to predict the price of a listing. We can start with linear regression and explore other advanced methods based on bias variance tradeoff.
+
+Data Set: http://insideairbnb.com/get-the-data.html
+
+Yelp Challenge: 
+
+There are multiple datasets in this challenge.
+
+•	Businesses: This dataset contains attributes about the business like the type, geographical information, whether it accepts credit cards etc.
+•	Users: This contains information about the customer who have visited the businesses that are hosted in Yelp website. Some of the attributes in this list are number of reviews a user has written, usefulness of the reviews, member since etc.
+•	Reviews: ratings, date, usefulness of the review etc.
+•	Check-in: data set that has information on check-ins for each business
+
+A very good dataset to predict the rating of business or build a recommendation engine. There is a lot one can achieve with this data and many articles are already available online.  But it can be challenging as it a huge data set.  One may have to choose a subset of data either by choosing a category of Business or a location. 
+
+Data Set: https://www.yelp.com/dataset/challenge
+
+Credit Cards Default data: 
+
+ This data set contains information about variables like customer demographics, history of payments, credit limit etc.
+
+The goal is to predict the likelihood of a customer to be default.
+
+Data set: 
+https://archive.ics.uci.edu/ml/datasets/default+of+credit+card+clients
+
